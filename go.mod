@@ -1,4 +1,4 @@
-module github.com/refraction-networking/utls
+module github.com/test-123-asasko/utls
 
 go 1.19
 
